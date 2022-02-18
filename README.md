@@ -5,11 +5,12 @@ For the final project, you will create a game book inspired by design fiction. D
 For this assignment, students will create a book in the format of “Welcome to Vanguard Estates,” a choose-your-own adventure style book that presents the ethical challenges relating to using artificial intelligence technology for care of the elderly. Your game book can take many forms, such as a word document, slides, an interactive web site, or an app. You will work on this project in small groups. 
 
 **Your narrative should have:**
-characters 
 
-at least one technology 
+- characters 
 
-multiple decision points and endings (at least 3). 
+- at least one technology 
+
+- multiple decision points and endings (at least 3). 
 
 For example, one negative or techno-dystopia ending, one uncertain, and one positive ending. 
 
